@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kinekt2000
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning everythinh
+- 🌱 I’m currently learning everythinп
 - 💞️ I’m looking to collaborate on computer graphics
 - 📫 How to reach me ...
 
