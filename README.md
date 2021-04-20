@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kinekt2000
+- 👋 Hi, I’m John C. Alastor
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning everythinп
 - 💞️ I’m looking to collaborate on computer graphics
