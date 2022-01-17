@@ -2,7 +2,6 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning everythinп
 - 💞️ I’m looking to collaborate on computer graphics
-- 📫 How to reach me ...
 
 <!---
 kinekt2000/kinekt2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
